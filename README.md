@@ -8,4 +8,4 @@
 
 > 1- Before running the tool make sure you have **docker** and **docker-compose** installed. <br  />
 2- Open a terminal in the cloned repository directory. <br />
-3- Run ```sudo docker-compose build & docker-compose run cipher``` 
+3- Run ```sudo docker-compose build && sudo docker-compose run cipher```
