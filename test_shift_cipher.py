@@ -1,6 +1,6 @@
 import unittest
-from shift_cipher import ShiftCipher
-from unknowntype_error import UnknownTypeError
+from ciphers.shift_cipher import ShiftCipher
+from ciphers.exceptions.unknowntype_error import UnknownTypeError
 
 class TestShiftCipher(unittest.TestCase):
     def setUp(self):

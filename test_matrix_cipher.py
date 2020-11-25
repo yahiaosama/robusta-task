@@ -1,6 +1,6 @@
 import unittest
-from matrix_cipher import MatrixCipher
-from unknowntype_error import UnknownTypeError
+from ciphers.matrix_cipher import MatrixCipher
+from ciphers.exceptions.unknowntype_error import UnknownTypeError
 
 class TestShiftCipher(unittest.TestCase):
     def setUp(self):
