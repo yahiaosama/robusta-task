@@ -15,3 +15,8 @@
 > 1- Open a terminal in the cloned repository directory <br />
   2- Run ```python test_shift_cipher.py``` for shift cipher <br />
   3- Run ```python test_matrix_cipher.py``` for matrix cipher <br />
+
+
+## Docker Image
+
+> The docker image for this app is based on the ubuntu 16.04 base image and uses python 3.7.
